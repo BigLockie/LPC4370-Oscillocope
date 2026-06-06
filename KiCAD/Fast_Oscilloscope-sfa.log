@@ -1,0 +1,65 @@
+NIST STEP File Analyzer and Viewer 5.41 (Mon May 25 22:15:54 PDT 2026)
+Connecting to IFCsvr
+
+Opening STEP AP214 file
+ 181573 entities
+
+This file contains:
+ Part geometry (B-rep solid, B-rep surface)
+ 
+Generating Header worksheet
+Name:  Fast_Oscilloscope
+FileDirectory:  C:\Users\lukem\OneDrive\Desktop\MCU\KiCAD\
+FileDescription:  KiCad electronic assembly
+FileImplementationLevel:  2;1
+FileTimeStamp:  2026-05-25T22:12:30
+FileAuthor:  Pcbnew
+FileOrganization:  Kicad
+FilePreprocessorVersion:  Open CASCADE STEP processor 7.9
+FileOriginatingSystem:  KiCad to STEP converter
+FileAuthorisation:  Unknown
+SchemaName:  AUTOMOTIVE_DESIGN { 1 0 10303 214 1 1 1 1 } (Edition 1)
+ 
+Generating STEP Entity worksheets
+colour_rgb (10)
+draughting_pre_defined_colour (1)
+fill_area_style (1000 of 1240)
+ **  Maximum Rows (1000) exceeded (see More tab)
+fill_area_style_colour (1000 of 1240)
+over_riding_styled_item (1)
+presentation_style_assignment (1000 of 1240)
+ ** Error processing #171883=presentation_style_assignment (row 72): 0x800a03ec {Unable to set the NumberFormat property of the Range class}  [genExcel]
+ ** Error processing #171892=presentation_style_assignment (row 73): 0x800a01a8 {Unknown error 0x800A01A8}  [genExcel]
+ ** Error processing #171901=presentation_style_assignment (row 74): 0x800a01a8 {Unknown error 0x800A01A8}  [genExcel]
+ ** Error processing #171910=presentation_style_assignment (row 75): 0x800a01a8 {Unknown error 0x800A01A8}  [genExcel]
+ ** Error processing #171919=presentation_style_assignment (row 76): 0x800a01a8 {Unknown error 0x800A01A8}  [genExcel]
+ ** Error processing #171928=presentation_style_assignment (row 77): 0x800a01a8 {Unknown error 0x800A01A8}  [genExcel]
+ ** Error processing #171937=presentation_style_assignment (row 78): 0x800a01a8 {Unknown error 0x800A01A8}  [genExcel]
+ ** Error processing #171946=presentation_style_assignment (row 79): 0x800a01a8 {Unknown error 0x800A01A8}  [genExcel]
+ ** Error processing #171955=presentation_style_assignment (row 80): 0x800a01a8 {Unknown error 0x800A01A8}  [genExcel]
+ ** Error processing #171964=presentation_style_assignment (row 81): 0x800a01a8 {Unknown error 0x800A01A8}  [genExcel]
+ ** Error processing #171973=presentation_style_assignment (row 82): 0x800a01a8 {Unknown error 0x800A01A8}  [genExcel]
+ ** Error processing #171982=presentation_style_assignment (row 83): 0x800a01a8 {Unknown error 0x800A01A8}  [genExcel]
+ ** Error processing #171991=presentation_style_assignment (row 84): 0x800a01a8 {Unknown error 0x800A01A8}  [genExcel]
+ ** Error processing #172000=presentation_style_assignment (row 85): 0x800a01a8 {Unknown error 0x800A01A8}  [genExcel]
+ ** Error processing #172009=presentation_style_assignment (row 86): 0x800a01a8 {Unknown error 0x800A01A8}  [genExcel]
+ ** Error processing #172018=presentation_style_assignment (row 87): 0x800a01a8 {Unknown error 0x800A01A8}  [genExcel]
+ ** Error processing #172027=presentation_style_assignment (row 88): 0x800a01a8 {Unknown error 0x800A01A8}  [genExcel]
+ ** Error processing #172036=presentation_style_assignment (row 89): 0x800a01a8 {Unknown error 0x800A01A8}  [genExcel]
+ ** Error processing #172045=presentation_style_assignment (row 90): 0x800a01a8 {Unknown error 0x800A01A8}  [genExcel]
+ ** Error processing #172054=presentation_style_assignment (row 91): 0x800a01a8 {Unknown error 0x800A01A8}  [genExcel]
+ ** Error processing #172063=presentation_style_assignment (row 92): 0x800a01a8 {Unknown error 0x800A01A8}  [genExcel]
+ ** Error processing #172072=presentation_style_assignment (row 93): 0x800a01a8 {Unknown error 0x800A01A8}  [genExcel]
+ ** Processing of presentation_style_assignment entities has stopped
+ ** Error writing worksheet cells for presentation_style_assignment: 0x800a01a8 {Unknown error 0x800A01A8}  [genExcel]
+styled_item (1000 of 1239)
+ ** Error processing STEP file with entity #171287=STYLED_ITEM: can't read "row(styled_item)": no such element in array
+ ** Processing of the STEP file has stopped  [genExcel]
+ Writing Viewer file to: C:\...\Desktop\MCU\KiCAD\Fast_Oscilloscope-sfa.html
+ **  Copying Viewer software to C:\Users\lukem\AppData\Local\Temp\SFA
+ Processing STEP part geometry for the Viewer
+ Processing X3D output
+ **  Some surfaces are transparent
+
+Generating Summary worksheet
+ ** Error adding Summary worksheet: 0x800a01a8 {Unknown error 0x800A01A8}  [sumAddWorksheet]

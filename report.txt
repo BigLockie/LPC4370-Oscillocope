@@ -1,0 +1,15 @@
+Info: X scale constrained.
+Info: Y scale constrained.
+Plotted to 'C:\Users\coope\Documents\ECE342\FastOscilloscope-LPC4370\KiCAD\MCU-F_Cu.gbr'.
+Plotted to 'C:\Users\coope\Documents\ECE342\FastOscilloscope-LPC4370\KiCAD\MCU-In1_Cu.gbr'.
+Plotted to 'C:\Users\coope\Documents\ECE342\FastOscilloscope-LPC4370\KiCAD\MCU-In2_Cu.gbr'.
+Plotted to 'C:\Users\coope\Documents\ECE342\FastOscilloscope-LPC4370\KiCAD\MCU-B_Cu.gbr'.
+Plotted to 'C:\Users\coope\Documents\ECE342\FastOscilloscope-LPC4370\KiCAD\MCU-F_Paste.gbr'.
+Plotted to 'C:\Users\coope\Documents\ECE342\FastOscilloscope-LPC4370\KiCAD\MCU-B_Paste.gbr'.
+Plotted to 'C:\Users\coope\Documents\ECE342\FastOscilloscope-LPC4370\KiCAD\MCU-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\coope\Documents\ECE342\FastOscilloscope-LPC4370\KiCAD\MCU-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\coope\Documents\ECE342\FastOscilloscope-LPC4370\KiCAD\MCU-F_Mask.gbr'.
+Plotted to 'C:\Users\coope\Documents\ECE342\FastOscilloscope-LPC4370\KiCAD\MCU-B_Mask.gbr'.
+Plotted to 'C:\Users\coope\Documents\ECE342\FastOscilloscope-LPC4370\KiCAD\MCU-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\coope\Documents\ECE342\FastOscilloscope-LPC4370\KiCAD\MCU-job.gbrjob'.
+Info: Done.

@@ -1,0 +1,18 @@
+# Eclipse / MCUXpresso build outputs
+Debug/
+Release/
+.metadata/
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.axf
+
+# Command-line build outputs (build/build.ps1)
+build/out/
+
+# Index / settings, keep .project/.cproject so teammates can clone-and-import
+.settings/

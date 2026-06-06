@@ -1,0 +1,13 @@
+# KiCad specific ignores
+*.bak
+*.s-bak
+*.lck
+*-backups/
+_autosave-*
+*.cadstar
+*.tmp
+fp-info-cache
+
+# Custom ignores for your project
+.history/
+MCU-backups/

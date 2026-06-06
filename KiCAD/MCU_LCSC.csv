@@ -1,0 +1,22 @@
+Reference,Value,Datasheet,Footprint,Qty,DNP,Supplier Part,Part type,Person
+"BNC1,BNC2",3GHz,https://item.szlcsc.com/datasheet/DOSIN-801-0038/747625.html,JLCPCB_Custom_Parts:BNC Connector 2.0,2,,C709673,Extended,JDII
+"C25,C35",100nF,,Capacitor_SMD:C_1206_3216Metric,2,,C303949,Extended,JDII
+"C29,C39",5pF,,Capacitor_SMD:C_0603_1608Metric,2,,C49326336,Extended,JDII
+H1,Debug Header,,JLCPCB_Custom_Parts:Debug Header,1,,C5155080,Extended,JDII
+MCU1,LPC4370FET100E,LPC4370FET100E,JLCPCB_Custom_Parts:LPC4370,1,,C1020255,Extended,JDII
+"R23,R35",1M,,Resistor_SMD:R_1206_3216Metric,2,,C2989128,Extended,JDII
+"SW1,SW2",Push Button,,JLCPCB_Custom_Parts:KEY-SMD,2,,C49234124,Extended,JDII
+U2,12MHz,https://item.szlcsc.com/datasheet/ECS-TXO-2520MV-120-AN-TR/2694029.html,JLCPCB_Custom_Parts:OSC-SMD_4P-L2.5-W2.0-BL (Oscillator2.0),1,,C2602137,Extended,JDII
+U3,LDO,https://www.ti.com/cn/lit/gpn/tps795,JLCPCB_Custom_Parts:SOT-223-6_L6.5-W3.5-P1.27-BL (LDO2.0),1,,C105264,Extended,JDII
+U4,LM27762DSSR,https://www.ti.com/lit/gpn/lm27762,JLCPCB_Custom_Parts:WSON-12_L3.0-W2.0-P0.50-BL-EP (Charge Pump),1,,C473398,Extended,JDII
+U5,ADR130BUJZ-REEL7,https://www.analog.com/media/en/technical-documentation/data-sheets/ADR130.pdf,JLCPCB_Custom_Parts:UJ_6_ADI,1,,C659476,Extended,JDII
+"U6,U11",TLP3441TP_F,https://toshiba.semicon-storage.com/info/docget.jsp?did=29491&prodName=TLP3441,JLCPCB_Custom_Parts:VSON-4_L1.5-W2.5-P0.80-BL-DCAC-SWITCH,2,,C2152054,Extended,JDII
+"U7,U12",TMUX1134PWR,https://www.ti.com/lit/gpn/tmux1134,JLCPCB_Custom_Parts:TSSOP20_PW_TEX-MUX,2,,C2866620,Extended,JDII
+"U8,U9,U10,U13,U14,U15",OPA356AIDBVR,https://www.ti.com/lit/gpn/opa356,JLCPCB_Custom_Parts:DBV5-OPAMP,6,,C183100,Extended,JDII
+USB2,USB1,https://item.szlcsc.com/datasheet/161N-4PSD43/8579678.html,JLCPCB_Custom_Parts:USB2.0,1,,C7500847,Extended,JDII
+,,,,25,,C5301796,,Elliot
+,,,,5,,C2881925,,Elliot
+,,,,10,,C41368895,,Elliot
+,,,,5,,C39832921,,Elliot
+,,,,5,,C37328851,,Elliot
+,,,,2,,C7422498,,Elliot

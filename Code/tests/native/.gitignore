@@ -1,0 +1,5 @@
+# Build artifacts from build_proto.bat / build_proto.sh
+proto.dll
+proto.so
+proto.dylib
+*.o

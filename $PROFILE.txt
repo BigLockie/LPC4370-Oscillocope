@@ -1,0 +1,9 @@
+function gsync {
+    git pull origin main
+    git add .
+    git commit -m "Sync from laptop"
+    git push origin main
+}
+function gdown {
+    git pull origin main
+}
