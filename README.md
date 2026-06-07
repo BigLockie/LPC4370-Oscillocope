@@ -34,13 +34,13 @@ Cooper Holm
 * Cooper Holm: Power supply block design, Analog Frent End architecture.
 
 ## Future Improvements
- ### To Be Implemented with Current Hardware
-  Due to the 10 week timeline, the project ran out of time to implement all of the features designed in hardware in the software.
-  * Real time control over the attenuation paths, allowing selection between gain path: 0.256x, 0.833x, 2.566x, and 10x
-  * Real time control over AC/DC coupling, allowing selection between gain path: 0.256x, 0.833x, 2.566x, and 10x
-  * Configure PLLs to create an exact 80MHz clock for the ADC to reach the maximum hardware sampling rate
-  * Flash firmware to the non-volitile memory
- ### Version 3 of the PCB Improvements
-  * Minimize digital analog cross talk: The bandwidth was limited because a more aggressive RC filter at the ADC input was required because of the noise from the digital components (LPC 4370 and a 12MHz external clock).
-   * Shorten the signal path from the analog front end to the ADC.
-   * Use differential pair drivers to create differential pairs to go from the analog front end to the ADC
+### To Be Implemented with Current Hardware
+Due to the 10 week timeline, the project ran out of time to implement all of the features designed in hardware in the software.
+* Real time control over the attenuation paths, allowing selection between gain path: 0.256x, 0.833x, 2.566x, and 10x
+* Real time control over AC/DC coupling, allowing selection between gain path: 0.256x, 0.833x, 2.566x, and 10x
+* Configure PLLs to create an exact 80MHz clock for the ADC to reach the maximum hardware sampling rate
+* Flash firmware to the non-volitile memory
+### Version 3 of the PCB Improvements
+* Minimize digital analog cross talk: The bandwidth was limited because a more aggressive RC filter at the ADC input was required because of the noise from the digital components (LPC 4370 and a 12MHz external clock).
+* Shorten the signal path from the analog front end to the ADC.
+* Use differential pair drivers to create differential pairs to go from the analog front end to the ADC
