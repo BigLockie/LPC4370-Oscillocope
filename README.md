@@ -1,6 +1,7 @@
 # 34 MSa/s Dual Channel Oscillscope
 A custom design dual channel USB-C oscilloscope built around the NXP LPC4370 (100 pin TFBGA) intended to output to a Python-based graphical display on a connected computer driven by PyQtGraph. The oscilloscope was designed for the Oregon State University Junior Design II course (ECE 342), the project took place over a 10 week term. 
-<br><br><br>
+
+### Figures:
 <img width="1000" alt="IMG_7518" src="https://github.com/user-attachments/assets/b6696ebf-668d-482b-b29b-a1cb0289794a" />
 <img width="1000" alt="Screenshot 2026-06-05 142354" src="https://github.com/user-attachments/assets/f38292d4-29c6-44eb-bd59-8de535ce02e4" />
 
